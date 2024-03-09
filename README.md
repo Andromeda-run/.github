@@ -1,4 +1,4 @@
-<center><img src="./logo.png" height="28"></center>
+<center><img src="./logo.svg" height="28"></center>
 Welcome to Andromeda.run, the distribution solution of your dreams.  
 <br>It will be a sleek, modern games and software distribution platform and developer suite, similar to Steam.  
 
