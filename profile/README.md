@@ -8,3 +8,4 @@ After submitting a developer application webform, if you are approved, you will 
 We take a 10% cut of any profits you make on our platform, but do not charge an upfront or recurring fee.  
 
 <br><a href="https://andromeda.run">Visit our website</a>
+<br><a href="https://store.andromeda.run">Try the beta (registration disabled for new users)</a>
